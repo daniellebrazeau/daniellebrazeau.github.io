@@ -1,7 +1,7 @@
 body{ background-color: #FFF0F5;
 }
 /* header/ my name */ 
-head{ 
+h1{ 
 	color: white;
 	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
 	font-family: Helvetica, sans-serif;
@@ -10,20 +10,20 @@ head{
 	text-align: center;
 }
 /* Education header */ 
-h1{ 
+h2{ 
 	color: grey; 
 	font-family: Helvetica, sans-serif;
 	font-size: 25px;
 }
 
 /* Wor Experience header*/ 
-h2{
+h3{
 	colour: grey;
 	font-family: Helvetica, sans-serif;
 	font-size: 25px;
 }
 /* hobbies header */ 
-h3{
+h4{
 	colour: grey;
 	font-family: Helvetica, sans-serif;
 	font-size: 25px;
