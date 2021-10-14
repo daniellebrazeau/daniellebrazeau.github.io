@@ -12,18 +12,18 @@ p{
   font-size: 18px;
 }
   
-#Horse Riding Fees {
+#HorseRidingFees {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 75%;
 }
 
-#Horse Riding Fees td, #Horse Riding Fees th {
+#HorseRidingFees td, #Horse Riding Fees th {
   border: 2px solid #ddd;
   padding: 8px;
 }
 
-#Horse Riding Fees th {
+#HorseRidingFees th {
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: center;
