@@ -1,0 +1,19 @@
+body{ background-color: #FFF0F5;
+}
+/* header/ my name */ 
+h1{ 
+	color: white;
+	text-shadow: 1px 1px 2px black, 0 0 25px blue, 0 0 5px darkblue;
+	font-family: Arial, Helvetica, sans-serif;
+	font-style: oblique;
+	text-align: center;
+}
+
+
+/* need a second header style, pick a colour theme, make all headers the same/ asthetically pleasing */
+/*paragraphs i would like to have bullet points maybe? */ 
+/*  header three include three pictures side by side, picture of horse, picture of hiking and one other */
+p{ 
+	font-family: verdana;
+	font-size: 20px;
+}
