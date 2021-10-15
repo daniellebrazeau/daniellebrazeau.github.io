@@ -25,6 +25,8 @@ li a {
 
 /* Change the link color to #111 (black) on hover */
 li a:hover {
+    background-color: #ADD8E6;
+}
 h1{ 
   color: #008B8B;
   text-align: center;
