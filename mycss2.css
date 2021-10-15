@@ -3,17 +3,22 @@
 body{ background-color: #FFF0F5;
 }
 h1{ 
-  color: #800000;
+  color: #008B8B;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 25px;
 }
 p1{ 
-  colour: #F4A460;
+  colour: #48D1CC;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
-  
+p.round2 {
+  border: 2px #A9A9A9 ;
+  border-radius: 8px;
+  padding: 5px;
+}
+
 #HorseRidingFees {
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
@@ -29,7 +34,8 @@ p1{
   padding-top: 12px;
   padding-bottom: 12px;
   text-align: Left;
-  background-color: #6B8E23;
+  background-color: #6495ED;
   color: #FFFAF0;
 }
 /*Table looking like outdoorsie/rustic colours*/
+/*didnt like the look of original colours, changed*/
