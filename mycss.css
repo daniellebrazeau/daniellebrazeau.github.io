@@ -59,7 +59,11 @@ h4{
 	font-size: 25px;
 	text-align: center;
 }
-	
+p.round1 {
+  border: 2px #A9A9A9 ;
+  border-radius: 8px;
+  padding: 5px;
+}	
 /* need a second header style, pick a colour theme, make all headers the same/ asthetically pleasing */
 /*paragraphs i would like to have bullet points maybe? */ 
 /*  header three include three pictures side by side, picture of horse, picture of hiking and one other */
