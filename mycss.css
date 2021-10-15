@@ -1,3 +1,5 @@
+/*my css*/
+
 body{ background-color: #FFF0F5;
 }
 /* header/ my name */ 
@@ -16,7 +18,7 @@ h2{
 	font-size: 25px;
 }
 
-/* Wor Experience header*/ 
+/* Work Experience header*/ 
 h3{
 	colour: grey;
 	font-family: Helvetica, sans-serif;
