@@ -13,20 +13,20 @@ h1{
 }
 /* Education header */ 
 h2{ 
-	color: grey; 
+	color: #2F4F4F; 
 	font-family: Helvetica, sans-serif;
 	font-size: 25px;
 }
 
 /* Work Experience header*/ 
 h3{
-	colour: grey;
+	colour: #2F4F4F;
 	font-family: Helvetica, sans-serif;
 	font-size: 25px;
 }
 /* hobbies header */ 
 h4{
-	colour: grey;
+	colour: #2F4F4F;
 	font-family: Helvetica, sans-serif;
 	font-size: 25px;
 }
@@ -35,7 +35,7 @@ h4{
 /*paragraphs i would like to have bullet points maybe? */ 
 /*  header three include three pictures side by side, picture of horse, picture of hiking and one other */
 p.round1{ 
-	border: 2px grey; 
+	border: 2px #4682B4; 
 	border-radius: 12px;
 	padding: 5px;
 	font-family: verdana;
