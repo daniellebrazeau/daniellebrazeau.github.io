@@ -80,7 +80,7 @@ h5{
   color: #008B8B;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 25px;
+  font-size: 30px;
 }
 
 #HorseRidingFees {
@@ -104,7 +104,7 @@ h5{
 /*Table looking like outdoorsie/rustic colours*/
 /*didnt like the look of original colours, changed*/
 
-h5{ 
+h6{ 
   color: #008B8B;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
