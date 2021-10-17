@@ -62,11 +62,8 @@ h4{
 /* need a second header style, pick a colour theme, make all headers the same/ asthetically pleasing */
 /*paragraphs i would like to have bullet points maybe? */ 
 /*  header three include three pictures side by side, picture of snake, picture of hiking and one other */
-div{ 
-  border: 2px #6A5ACD;
-  
-}
-div{
+
+
 p{ 
 	border: 2px #4682B4; 
 	border-radius: 12px;
@@ -75,5 +72,5 @@ p{
 	font-size: 20px;
 	color: #6A5ACD;
 }
-	}
+
 
