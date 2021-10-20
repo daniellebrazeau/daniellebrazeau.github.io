@@ -51,9 +51,19 @@ p{
 	font-size: 20px;
 	color: #6A5ACD;
 }
-
-/* second page*/ 
 h3{ 
+  color: #008B8B;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 30px;
+}
+div{ 
+  color: #48D1CC;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 18px;
+}
+/* second page*/ 
+h4{
   color: #008B8B;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
