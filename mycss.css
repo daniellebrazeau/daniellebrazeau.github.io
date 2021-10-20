@@ -38,7 +38,7 @@ h1{
 	font-style: oblique;
 	text-align: center;
 }
-/* Education header */ 
+/* Education header, work experience and hobbies all the same font */ 
 h2{ 
 	color: #2F4F4F; 
 	font-family: Helvetica, sans-serif;
@@ -52,23 +52,9 @@ p{
 	color: #6A5ACD;
 }
 
-/* Work Experience header*/ 
-h3{
-	color: #2F4F4F;
-	font-family: Helvetica, sans-serif;
-	font-size: 25px;
-	text-align: center;
-}
+/* second page*/ 
 
-/* hobbies header */ 
-h4{
-	color: #2F4F4F;
-	font-family: Helvetica, sans-serif;
-	font-size: 25px;
-	text-align: center;
-
-
-p{ 
+p2{ 
   color: #4682B4;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
