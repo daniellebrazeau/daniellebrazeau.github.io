@@ -53,7 +53,12 @@ p{
 }
 
 /* second page*/ 
-
+h3{ 
+  color: #008B8B;
+  text-align: center;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 20px;
+}
 p2{ 
   color: #4682B4;
   text-align: center;
