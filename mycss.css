@@ -40,7 +40,7 @@ h1{
 }
 /* Education header, work experience and hobbies all the same font */ 
 h2{ 
-	color: #2F4F4F; 
+	color: #663399; 
 	font-family: Helvetica, sans-serif;
 	font-size: 25px;
 	text-align: center;
@@ -73,7 +73,7 @@ p2{
   color: #4682B4;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  font-size: 17px;
+  font-size: 20px;
 }
 /* need a second header style, pick a colour theme, make all headers the same/ asthetically pleasing */
 /*paragraphs i would like to have bullet points maybe? */ 
