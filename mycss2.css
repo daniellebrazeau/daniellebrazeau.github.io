@@ -34,7 +34,7 @@ h1{
   font-size: 30px;
 }
 div{ 
-  colour: #48D1CC;
+  color: #48D1CC;
   font-family: Arial, Helvetica, sans-serif;
   font-size: 18px;
 }
@@ -43,7 +43,7 @@ div{
   font-family: Arial, Helvetica, sans-serif;
   border-collapse: collapse;
   width: 75%;
-  table-align: center;
+ 
 }
 
 #HorseRidingFees td, #Horse Riding Fees th {
@@ -72,5 +72,5 @@ p{
   color: #4682B4;
   text-align: center;
   font-family: Arial, Helvetica, sans-serif;
-  font-side: 17px;
+  font-size: 17px;
 }
